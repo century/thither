@@ -1,6 +1,6 @@
 {
-  "name": "nero",
-  "displayName": "Nero",
+  "name": "thither",
+  "displayName": "Thither",
   "description": "Dark color theme",
   "version": "0.0.1",
   "license": "CC0-1.0",
@@ -14,19 +14,19 @@
   "keywords": [
     "theme",
     "peppermint",
-    "nero",
+    "thither",
     "dark"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/GraaantBowers/nero"
+    "url": "https://github.com/GraaantBowers/nero-dark"
   },
   "contributes": {
     "themes": [
       {
-        "label": "Nero",
+        "label": "Thither",
         "uiTheme": "vs-dark",
-        "path": "./themes/Nero-color-theme.json"
+        "path": "./themes/thither-color-theme.json"
       }
     ]
   }
