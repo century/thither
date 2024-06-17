@@ -1,0 +1,21 @@
+{
+  "name": "nero",
+  "displayName": "Nero",
+  "description": "Dark color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nero",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nero-color-theme.json"
+      }
+    ]
+  }
+}
