@@ -3,12 +3,23 @@
   "displayName": "Nero",
   "description": "Dark color theme",
   "version": "0.0.1",
+  "publisher": "GrantBowers",
   "engines": {
     "vscode": "^1.90.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "peppermint",
+    "nero",
+    "dark"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GraaantBowers/nero"
+  },
   "contributes": {
     "themes": [
       {
