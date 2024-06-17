@@ -3,6 +3,7 @@
   "displayName": "Nero",
   "description": "Dark color theme",
   "version": "0.0.1",
+  "license": "CC0-1.0",
   "publisher": "GrantBowers",
   "engines": {
     "vscode": "^1.90.0"
